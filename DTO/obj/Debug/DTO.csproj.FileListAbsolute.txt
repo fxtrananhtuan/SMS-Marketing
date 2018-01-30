@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\SMS Marketing\DTO\bin\Debug\DTO.dll
+c:\users\user\documents\visual studio 2015\Projects\SMS Marketing\DTO\bin\Debug\DTO.pdb
+c:\users\user\documents\visual studio 2015\Projects\SMS Marketing\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SMS Marketing\DTO\obj\Debug\DTO.dll
+c:\users\user\documents\visual studio 2015\Projects\SMS Marketing\DTO\obj\Debug\DTO.pdb
+G:\Linh tinh document\Visual Studio 2015\Projects\SMS Marketing\DTO\bin\Debug\DTO.dll
+G:\Linh tinh document\Visual Studio 2015\Projects\SMS Marketing\DTO\bin\Debug\DTO.pdb
+G:\Linh tinh document\Visual Studio 2015\Projects\SMS Marketing\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\Linh tinh document\Visual Studio 2015\Projects\SMS Marketing\DTO\obj\Debug\DTO.dll
+G:\Linh tinh document\Visual Studio 2015\Projects\SMS Marketing\DTO\obj\Debug\DTO.pdb

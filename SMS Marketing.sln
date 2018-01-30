@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS Marketing", "SMS Marketing\SMS Marketing.csproj", "{B667B8E4-69C5-4418-AFB4-2005139F3B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{9C029374-3E9A-46A6-9A32-C1047675F2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{B5F89981-61F8-4459-BA6E-CD9AA4978F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B667B8E4-69C5-4418-AFB4-2005139F3B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B667B8E4-69C5-4418-AFB4-2005139F3B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B667B8E4-69C5-4418-AFB4-2005139F3B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B667B8E4-69C5-4418-AFB4-2005139F3B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C029374-3E9A-46A6-9A32-C1047675F2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C029374-3E9A-46A6-9A32-C1047675F2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C029374-3E9A-46A6-9A32-C1047675F2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C029374-3E9A-46A6-9A32-C1047675F2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F89981-61F8-4459-BA6E-CD9AA4978F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F89981-61F8-4459-BA6E-CD9AA4978F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F89981-61F8-4459-BA6E-CD9AA4978F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F89981-61F8-4459-BA6E-CD9AA4978F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
