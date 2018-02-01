@@ -18,3 +18,10 @@ AT commands are instructions used to control a modem. AT is the abbreviation of 
 
 Basic commands are AT commands that do not start with a "+". For example, D (Dial), A (Answer), H (Hook control), and O (Return to online data state) are the basic commands.
 Extended commands are AT commands that start with a "+". All GSM AT commands are extended commands. For example, +CMGS (Send SMS message), +CMGL (List SMS messages), and +CMGR (Read SMS messages) are extended commands.
+
+This example using Three Layer Architecture.
+
+![3lyrs2](https://user-images.githubusercontent.com/14042198/35670305-4cf5f266-078c-11e8-8580-2b35767b4d7f.jpg)
+
+
+
